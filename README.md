@@ -1,4 +1,6 @@
 # Server
+
+Note- The html,css files used for testcase are taken from the web.
 Http Server to serve html, css and javascript files
 The TMWebProjector is a server to serve html,css and javascript files.
 
